@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+table,
+thead,
+tbody,
+th,
+td,
+tr {
+    border: 1px solid #ACACA0;
+    border-collapse: collapse;
+    margin: 50px;
+    padding: 5px;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+td {
+    font-weight: 900;
+}
+
+th {
+    font-weight: 400;
+}
+
+.name {
+    text-align: start;
+}
